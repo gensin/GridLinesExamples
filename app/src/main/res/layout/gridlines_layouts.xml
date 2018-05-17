@@ -12,56 +12,56 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:orientation="vertical"
-        app:layout_constraintGuide_begin="16dp"/>
+        app:layout_constraintGuide_percent="0.022" />
 
     <android.support.constraint.Guideline
         android:id="@+id/vertical2"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:orientation="vertical"
-        app:layout_constraintGuide_percent="0.23888889"/>
+        app:layout_constraintGuide_percent="0.228" />
 
     <android.support.constraint.Guideline
         android:id="@+id/vertical3"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:orientation="vertical"
-        app:layout_constraintGuide_percent="0.28333333"/>
+        app:layout_constraintGuide_percent="0.272" />
 
     <android.support.constraint.Guideline
         android:id="@+id/vertical4"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:orientation="vertical"
-        app:layout_constraintGuide_percent="0.47777778"/>
+        app:layout_constraintGuide_percent="0.478" />
 
     <android.support.constraint.Guideline
         android:id="@+id/vertical5"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:orientation="vertical"
-        app:layout_constraintGuide_percent="0.5222222"/>
+        app:layout_constraintGuide_percent="0.522" />
 
     <android.support.constraint.Guideline
         android:id="@+id/vertical6"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:orientation="vertical"
-        app:layout_constraintGuide_percent="0.71666664"/>
+        app:layout_constraintGuide_percent="0.728" />
 
     <android.support.constraint.Guideline
         android:id="@+id/vertical7"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:orientation="vertical"
-        app:layout_constraintGuide_percent="0.76111114"/>
+        app:layout_constraintGuide_percent="0.772" />
 
     <android.support.constraint.Guideline
         android:id="@+id/vertical8"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:orientation="vertical"
-        app:layout_constraintGuide_end="16dp"/>
+        app:layout_constraintGuide_percent="0.978" />
 
     <android.support.constraint.Guideline
         android:id="@+id/half"
